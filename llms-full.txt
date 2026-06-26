@@ -1,0 +1,51 @@
+# Geotecnia1 — Brasilia
+
+> Geotechnical engineering services in Brasilia, Brasil.
+
+## Services
+- [Ancoragens](https://brasilia.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://brasilia.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://brasilia.geotecnia1.org/colunas-brita/)
+- [Densidade Cone Areia](https://brasilia.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://brasilia.geotecnia1.org/ensaio-cpt/)
+- [Ensaios Proctor](https://brasilia.geotecnia1.org/ensaios-proctor/)
+- [Escavacoes](https://brasilia.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://brasilia.geotecnia1.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://brasilia.geotecnia1.org/estabilidade-taludes/)
+- [Estacas](https://brasilia.geotecnia1.org/estacas/)
+- [Fundacoes](https://brasilia.geotecnia1.org/fundacoes/)
+- [Geotecnia Viaria](https://brasilia.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://brasilia.geotecnia1.org/granulometria/)
+- [Injecoes](https://brasilia.geotecnia1.org/injecoes/)
+- [Investigacao](https://brasilia.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://brasilia.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://brasilia.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://brasilia.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://brasilia.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://brasilia.geotecnia1.org/liquefacao/)
+- [Masw](https://brasilia.geotecnia1.org/masw/)
+- [Melhoramento](https://brasilia.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://brasilia.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://brasilia.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://brasilia.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://brasilia.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://brasilia.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://brasilia.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://brasilia.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://brasilia.geotecnia1.org/radiers/)
+- [Refracao Sismica](https://brasilia.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://brasilia.geotecnia1.org/resistividade/)
+- [Sapatas](https://brasilia.geotecnia1.org/sapatas/)
+- [Sismica](https://brasilia.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://brasilia.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://brasilia.geotecnia1.org/taludes/)
+- [Triaxial](https://brasilia.geotecnia1.org/triaxial/)
+- [Tuneis Solo Mole](https://brasilia.geotecnia1.org/tuneis-solo-mole/)
+- [Vibrocompactacao](https://brasilia.geotecnia1.org/vibrocompactacao/)
+
+## Contact
+- Website: https://brasilia.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Brasilia, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
